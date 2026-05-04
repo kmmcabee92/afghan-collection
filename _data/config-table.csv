@@ -1,5 +1,6 @@
 field,display_name
 title,Title
-date,Date
+date,Date Created
 description,Description
-subject,Subjects
+subject_pattern,Pattern
+subject_color,Color
