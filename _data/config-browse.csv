@@ -1,5 +1,5 @@
 field,display_name,btn,hidden,sort_name
-date,Date,,,Date
 recipient,Recipient,,,
-subject_pattern,,true
-subject_color,,true
+date,Date,,,Date
+subject_pattern,,true,,
+subject_color,,true,,
