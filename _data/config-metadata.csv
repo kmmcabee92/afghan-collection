@@ -1,15 +1,18 @@
 field,display_name,browse_link,external_link
 title,Title,
-creator,Creator,
-date,Date Created,
 description,Description,
-subject,Subjects,true
-location,Location
-latitude,Latitude
-longitude,Longitude
-source,Source
-identifier,Source Identifier,,
-type,Type,
+date,Date Created,
+dimensions,Dimensions,
+subject_pattern,Pattern,true,
+subject_color,Color,true,
+recipient,Recipient,
+filename,Filename,
+object_location,File Location,
+image_small,Small Image,
 format,Format,
-rights,Rights,
-rightsstatement,Rights Statement,,true
+display_template,Display Template,
+file_size,File Size,
+file_date,File Date,
+file_creator,File Creator,
+image_alt_text,Alt Text,
+language,Language,
